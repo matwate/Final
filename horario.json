@@ -1,0 +1,103 @@
+{
+	"Monday": [
+        {
+            "Nombre": "Programacion De Computadoras", 
+            "HoraInicio": 13,
+            "HoraFin": 15,
+            "Salon": "Boole"
+            
+        },
+        {
+            "Nombre": "Calculo",
+            "HoraInicio": 15,
+            "HoraFin": 17,
+            "Salon": "Claustro 126"
+        }
+    ],
+	"Tuesday": [
+        {
+            "Nombre": "Monitoria Pensamiento",
+            "HoraInicio": 7,
+            "HoraFin": 9,
+            "Salon": "Casur 301"
+
+        },
+        {
+            "Nombre": "Catedra Rosarista",
+            "HoraInicio": 9,
+            "HoraFin": 11,
+            "Salon": "TO FILL IDK"
+        },
+        {
+            "Nombre": "Lectura Critica",
+            "HoraInicio": 11,
+            "HoraFin": 13,
+            "Salon": "Casur 403"
+        }
+
+    ],
+	"Wednesday": [
+        {
+            "Nombre": "Logica",
+            "HoraInicio": 11,
+            "HoraFin": 13,
+            "Salon": "Casur 302"
+        },
+        {
+            "Nombre": "Programacion De Computadoras",
+            "HoraInicio": 13,
+            "HoraFin": 15,
+            "Salon": "Boole"
+        
+        },
+        {
+            "Nombre": "Calculo",
+            "HoraInicio": 15,
+            "HoraFin": 17,
+            "Salon": "Claustro 126"
+        }
+    ],
+	"Thursday": [
+        {
+            "Nombre": "Pensamiento",
+            "HoraInicio": 9,
+            "HoraFin": 11,
+            "Salon": "Calatrava 701"
+        },
+        {
+            "Nombre": "Monitoria Logica",
+            "HoraInicio": 11,
+            "HoraFin": 13,
+            "Salon": "Casur 605"
+        },
+        {
+            "Nombre": "Programacion De Computadoras",
+            "HoraInicio": 13,
+            "HoraFin": 15,
+            "Salon": "Boole"
+        }
+        
+    ],
+	"Friday": [
+        {
+            "Nombre": "Logica",
+            "HoraInicio": 11,
+            "HoraFin": 13,
+            "Salon": "Casur 302"
+        },
+        {
+            "Nombre": "Etica",
+            "HoraInicio": 13,
+            "HoraFin": 15,
+            "Salon": "Casur 602"
+        },
+
+        {
+            "Nombre": "Monitoria Calculo",
+            "HoraInicio": 15,
+            "HoraFin": 17,
+            "Salon": "Casur 510"
+        }
+    ]
+	
+}
