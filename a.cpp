@@ -1,0 +1,5 @@
+
+Class a{
+    public:
+    private:
+}
